@@ -1,0 +1,61 @@
+.intro h2{
+padding: 15px;
+text-align: center;
+}
+.intro{
+    background-color: rgb(245, 245, 209);
+    margin: 25px;
+    margin-left: 0px;
+    padding: 30px;
+    padding-top: 10px;
+    border-radius: 30px;
+}
+
+.skill{
+    height: 50px;
+    width: 800px;
+    /* background-color: red; */
+    border: 1px solid black;
+    
+    /* margin-left: 30px; */
+}
+.skill:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.skillcontainer{
+    padding: 50px;
+    background-color: rgb(236, 226, 227);
+    height: auto;
+    width: 60vw;
+    border-radius: 30px;
+    margin-top: 20px;
+    
+}
+.skillinprogress-25{
+    /* margin: 0px; */
+    width: 200px;
+    height: 50px;
+    background-color: rgb(135, 128, 177);
+}
+.skillinprogress-50{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(81, 81, 150);
+}
+.skillinprogress-75{
+    width: 600px;
+    height: 50px;
+    background-color: blue;
+}
+.skillinprogress-100{
+    width: 800px;
+    height: 50px;
+    background-color: green;
+}
+.skillItem{
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+
+}
+

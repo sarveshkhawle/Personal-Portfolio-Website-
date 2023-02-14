@@ -1,0 +1,60 @@
+.main{
+/* margin-right: 200px; */
+}
+.main{
+    /* background-color: brown; */
+    margin-left: 10px;
+}
+.bag{
+    /* background-color: red; */
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    align-content: space-around;
+    flex-direction: row;
+    justify-content: center;
+    /* margin-left: 10px; */
+    /* margin-right: 200px; */
+}
+.obj1{
+    width: 700px;
+    height: 25vw;
+    background-color: rgba(217, 219, 204, 0.733);
+    margin: 20px;
+    border-radius: 30px;
+    /* display: flex; */
+    /* align-items:  ; */
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+
+    
+}
+.obj1:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+h1{
+    /* align-items : center; */
+    text-align: center;
+}
+.width{
+    margin-top: 30px;
+    height: 200px;
+    width: 200px;
+    margin-left: 250px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    /* position: absolute; */
+}
+.div2{
+    /* background-color: blueviolet; */
+    height: 50px;
+    width: 400px;
+    margin-left: 270px;
+    font-size: 30px;
+}
+p{
+    padding: 5px;
+}

@@ -1,0 +1,74 @@
+.contact_info h1{
+text-align: center ;
+}
+
+.contact_info form div{
+    padding: 10px;
+    display: flex;
+    flex-direction: column ;
+}
+#emailHelp{
+    font-size: 10px;
+    color: blue;
+    margin: 0 5px;
+}
+input#exampleInputEmail1 {
+    width: 20vw;
+    height: 30px;
+    border-radius: 5px;
+}
+input#exampleInputPassword1 {
+    width: 20vw;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#phone {
+    width: 20vw;
+    height: 30px;
+    border-radius: 5px;
+}
+button.btn.btn-primary {
+    width: 123px;
+    height: 44px;
+    border: 20px;
+    border-radius: 30px;
+}
+
+.contact_info div button:hover{
+    background-color: rgb(207, 207, 228);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+input[type="text"] {
+    width: 20vw;
+    height: 100px;
+    border-radius: 10px;
+}
+#name1 {
+    font-size: 25px;
+    height: 30px;
+    border-radius: 5px;
+}
+#phone{
+    width: 20vw;
+    height: 30px;
+
+}
+
+.contact_info{
+    background-color: rgba(207, 245, 232, 0.918);
+    width: 35vw;
+    height: 35vw;
+    margin-left: 300px;
+    margin-top: 70px;
+    padding-left: 100px;
+    padding-top: 50px;
+    border-radius: 20px;
+}
+*{
+    font-size: medium;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
